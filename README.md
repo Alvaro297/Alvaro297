@@ -8,8 +8,9 @@
 ### 🌟 About me 
 - 🎓 Currently a student at **[42 Madrid](https://www.42madrid.com/)**,learning to program in an innovative and collaborative environment.
 - 🔥 Passionate about **Artificial Intelligence**, efficient algorithms, and creating useful tools with technology. 
-- 💡 Siempre buscando nuevos retos y formas de crecer como desarrollador.  
+- 💡 Siempre buscando nuevos retos y formas de crecer como desarrollador.
 
+### 42 Profile
 [![alvamart 42 stats](https://badge.mediaplus.ma/Darkblue/alvamart?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <p align="center">
