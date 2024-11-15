@@ -5,6 +5,11 @@
 </p>
 <br>
 
+### 🌟 About me 
+- 🎓 Currently a student at **[42 Madrid](https://www.42madrid.com/)**,learning to program in an innovative and collaborative environment.
+- 🔥 Passionate about **Artificial Intelligence**, efficient algorithms, and creating useful tools with technology. 
+- 💡 Siempre buscando nuevos retos y formas de crecer como desarrollador.  
+
 [![alvamart 42 stats](https://badge.mediaplus.ma/Darkblue/alvamart?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <p align="center">
@@ -18,7 +23,15 @@
 <br>   
 
 ## My Github Info 📊
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvaro297&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alvaro297&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-![Alvaro297's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvaro297&theme=github_dark)
-
-![Alvaro297's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro297&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="www.linkedin.com/in/álvaro-martín-falagán"><img src="https://img.shields.io/badge/-Alvaro%20Martin%20Falagan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alvarofalagan29@gmail.com"><img src="https://img.shields.io/badge/-alvarofalagan29@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
