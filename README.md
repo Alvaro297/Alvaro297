@@ -3,11 +3,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;42+Madrid+Student;AI+and+Software+Developer;Always+Learning+and+Improving!"></a>
 </p>
-
-
 <br>
 
-
+[![alvamart 42 stats](https://badge.mediaplus.ma/Darkblue/alvamart?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <!--
 **Alvaro297/Alvaro297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
