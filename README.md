@@ -7,23 +7,18 @@
 
 [![alvamart 42 stats](https://badge.mediaplus.ma/Darkblue/alvamart?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+<p align="center">
+
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
 
 ## My Github Info 📊
 
-![ismaelucky342's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvaro297&theme=github_dark)
+![Alvaro297's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvaro297&theme=github_dark)
 
-![ismaelucky342's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro297&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-<!--
-**Alvaro297/Alvaro297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alvaro297's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro297&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
